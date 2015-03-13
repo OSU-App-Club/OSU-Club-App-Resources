@@ -1,0 +1,16 @@
+{ "news": [
+	{
+		"id": 0,
+		"title": "Meeting Dates",
+		"description": "App club meets at KEC 1007 on Tuesdays & Wednesdays at 6pm",
+		"date": "3/12/2015",
+		"thumbnail": "https://osu-app-club.github.io/assets/img/appclub-logo-blue.png"
+	},
+	{
+		"id": 1,
+		"title": "Hackathon in Spring term",
+		"description": "Google will most likely be sponsoring another hackathon in Spring term, stay posted for more details.",
+		"date": "3/12/2015",
+		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Google_favicon_2012.jpg"
+	}
+]}
