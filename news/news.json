@@ -19,5 +19,12 @@
 		"description": "Google will most likely be sponsoring another hackathon in Spring term, stay posted for more details.",
 		"date": "3/12/2015",
 		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Google_favicon_2012.jpg"
+	},
+	{
+		"id": 3,
+		"title": "$2 Pints at Bombs",
+		"description": "Bombs Away cafe has $2 pints on Tuesday. Darks, lights, Guinness. Need I say more?",
+		"date": "4/6/2015",
+		"thumbnail": "http://www.bombsawaycafe.com/images/1.png"
 	}
 ]}
