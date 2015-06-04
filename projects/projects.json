@@ -3,7 +3,7 @@
 		"id": 0,
 		"name": "OSU Android Club App SNDSKDFLJSD",
 		"description": "The OSU App Club app for Android. Check out what's new, who's involved, and what we're working on",
-		"thumbnail": "https://osu-app-club.github.io/assets/img/appclub-logo-blue.png",
+		"thumbnail": "https://raw.githubusercontent.com/OSU-App-Club/OSU-Club-App-Resources/master/res/images/device1.png",
 		"member_ids": [
 			{
 				"id": 0
@@ -39,7 +39,7 @@
 		"id": 1,
 		"name": "OSU iOS Club App",
 		"description": "The OSU App Club app for iOS. Check out what's new, who's involved, and what we're working on",
-		"thumbnail": "https://osu-app-club.github.io/assets/img/appclub-logo-blue.png",
+		"thumbnail": "https://raw.githubusercontent.com/OSU-App-Club/OSU-Club-App-Resources/master/res/images/device1.png",
 		"member_ids": [
 			{
 				"id": 0
